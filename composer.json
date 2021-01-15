@@ -1,0 +1,16 @@
+{
+    "name": "luciane/psr",
+    "authors": [
+        {
+            "name": "silvioclipper",
+            "email": "silvioclipper@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "src\\":"src/"
+        }
+    },
+
+    "require": {}
+}
